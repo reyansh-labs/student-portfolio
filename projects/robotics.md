@@ -7,7 +7,7 @@
 
 The SDV program explores how a robot can move around a 10 × 10 foot challenge mat. It includes programming, Time-of-Flight sensors, cameras, CAD, and 3D printing. I also took part in the RTP SDV League “Ride Rush” competition in June 2026.
 
-I worked on the robot's chassis and learned how a CAD model becomes a printed part. The program used Onshape and a Bambu Lab printer. The [chassis STL](../artifacts/robotics/SDV_Chassis.stl) shows the exported shape; it does not contain the full Onshape design history.
+I worked on the robot's chassis and learned how a CAD model becomes a printed part. The program used Onshape and a Bambu Lab printer. I have added a [chassis model note](../artifacts/robotics/SDV_Chassis.md); the binary STL remains in the private working repository while I check the public-sharing details.
 
 ## What the code here does
 
