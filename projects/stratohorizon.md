@@ -4,14 +4,19 @@
 
 ## High-level project timeline
 
-These are planning phases for our school team, not a claim that NASA has selected us:
+Ms. Maul is our school Team Lead. We are developing our proposal during fall 2026. These dates come from the [official NASA TechRise challenge page](https://www.futureengineers.org/nasatechrise), checked September 27, 2026.
 
-| Period | Planned work |
+| Date | Program milestone |
 | --- | --- |
-| Fall 2026 | Form the team, choose the question, review the rules, and develop the proposal with Ms. Maul as Team Lead |
-| Fall 2026 | Define the measurements, sketch the payload, and complete teacher/team review |
-| By the official submission deadline | Submit the student-written proposal through the TechRise process |
-| After submission | Wait for the program decision; only if selected would we build, test, and prepare a flight experiment |
+| September 3, 2026 | Challenge opened |
+| September 22, 2026 | Program's student virtual field trip; this entry does not record my attendance |
+| November 2, 2026, 11:59 p.m. Pacific Time | Proposal submission deadline |
+| January 19, 2027 | Winners announced; selected teams begin building |
+| May 18, 2027 | Experiment showcase for selected teams |
+| May 19, 2027 | Selected teams must mail their experiments to Future Engineers by this date |
+| Summer 2027 | Flight testing for selected experiments |
+
+The build, showcase, shipping, and flight milestones would apply to our team only if we are selected.
 
 ## Our question
 
