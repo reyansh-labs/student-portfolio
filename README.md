@@ -25,6 +25,10 @@ In Zebra Robotics, I worked on a self-driving vehicle project and learned about 
 | NASA TechRise — StratoHorizon | Preparing a proposal with my school team; no selection or flight yet | [Our experiment idea](projects/stratohorizon.md) |
 | MSEN Pre-College Saturday Academy | Preparing for the 2026–27 classes | [My learning goals](learning/msen-pre-college.md) |
 
+## My academic foundation
+
+I am identified as Academically Gifted in Mathematics and am taking NC Math 2 and NC Math 3 in Grade 8. [My math progression](learning/academic-foundation.md) shows my completed courses and current placement.
+
 ## Beyond my projects
 
 I also take part in math and coding challenges, FBLA, volunteering, and tennis. [My activities page](activities/README.md) gives a short overview.
@@ -35,4 +39,4 @@ I want to write code I can explain, keep better test records, and connect math t
 
 [What's included in this portfolio](PORTFOLIO-NOTES.md) · [Credits](CREDITS.md)
 
-*Last updated: September 27, 2026. This is my personal student portfolio.*
+*Last updated: September 28, 2026. This is my personal student portfolio.*
