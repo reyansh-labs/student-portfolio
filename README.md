@@ -14,7 +14,7 @@ At NC State's MSEN Summer Scholars camp, I built a water rocket with foam-board 
 
 In Zebra Robotics, I worked on a self-driving vehicle project and learned about coding, CAD, and 3D printing. The example I can share here controls movement with fixed speeds, steering commands, and timed waits. It is an early motion-control stage of the project.
 
-**Take a closer look:** [Python code](artifacts/robotics/user_main.py) · [My explanation of the code](artifacts/robotics/code-notes.md) · [Chassis model](artifacts/robotics/SDV_Chassis.stl)
+**Take a closer look:** [Python code](artifacts/robotics/user_main.py) · [My explanation of the code](artifacts/robotics/code-notes.md) · [Chassis model note](artifacts/robotics/SDV_Chassis.md)
 
 ## What else I'm learning
 
