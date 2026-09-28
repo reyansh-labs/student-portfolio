@@ -2,6 +2,17 @@
 
 **Status: Proposal preparation for the 2026–27 NASA TechRise Student Challenge.** Our team has not been selected and has not flown this experiment.
 
+## High-level project timeline
+
+These are planning phases for our school team, not a claim that NASA has selected us:
+
+| Period | Planned work |
+| --- | --- |
+| Fall 2026 | Form the team, choose the question, review the rules, and develop the proposal with Ms. Maul as Team Lead |
+| Fall 2026 | Define the measurements, sketch the payload, and complete teacher/team review |
+| By the official submission deadline | Submit the student-written proposal through the TechRise process |
+| After submission | Wait for the program decision; only if selected would we build, test, and prepare a flight experiment |
+
 ## Our question
 
 Could a camera looking at Earth's horizon estimate a balloon payload's sideways tilt? We want to compare that estimate with an inertial measurement unit, or IMU.
