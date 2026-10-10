@@ -21,7 +21,7 @@ In Zebra Robotics, I worked on a self-driving vehicle project and learned about 
 | Experience | Where I am now | Read more |
 | --- | --- | --- |
 | NC State MSEN Summer Scholars | Completed July 6–10, 2026 | [My week at camp](learning/summer-scholars.md) |
-| SecureIT cybersecurity workshops | Attended the first workshop; the year is still in progress | [Cybersecurity](learning/secureit.md) |
+| SecureIT cybersecurity workshops | Completed two workshops on September 12 and October 10; the year is still in progress | [Cybersecurity](learning/secureit.md) |
 | NASA TechRise — StratoHorizon | Preparing a proposal with my school team; no selection or flight yet | [Our experiment idea](projects/stratohorizon.md) |
 | MSEN Pre-College Saturday Academy | Preparing for the 2026–27 classes | [My learning goals](learning/msen-pre-college.md) |
 
@@ -39,4 +39,4 @@ I want to write code I can explain, keep better test records, and connect math t
 
 [What's included in this portfolio](PORTFOLIO-NOTES.md) · [Credits](CREDITS.md)
 
-*Last updated: September 28, 2026. This is my personal student portfolio.*
+*Last updated: October 10, 2026. This is my personal student portfolio.*
