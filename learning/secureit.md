@@ -20,9 +20,6 @@ I also considered when to trust, check, or reject an AI recommendation. A confid
 
 I worked with a partner on a phishing-awareness poster called **The Coral Reef**. We listed warning signs and created a pretend payment-request email for the classroom activity. I practiced looking at the sender, links, and request together instead of deciding from just one clue.
 
-## How the sessions are labeled
-
-My September activity record calls the session **Adversarial Thinking**; its handout is titled **Cyber Triad, Attacks and Patterns**. My October schedule lists **Cryptography**; its handout is titled **Adversarial Thinking & Trusting AI**. I have described the activities in my evidence rather than treating a schedule title as proof of a particular skill.
 
 ## Workshop schedule
 
