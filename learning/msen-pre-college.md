@@ -1,6 +1,6 @@
 # My Next MSEN Experience
 
-I'm preparing for the **2026–27 NC State MSEN Pre-College Saturday Academy**. My class folders and learning journal are set up, and the classes begin in October 2026. I have not recorded any Saturday Academy attendance or completed class projects yet.
+My enrollment is confirmed for the **2026–27 NC State MSEN Pre-College Saturday Academy**. My class folders and learning journal are set up, and the classes begin on October 24, 2026. I have not recorded any Saturday Academy attendance or completed class projects yet.
 
 ## Program schedule
 
@@ -17,10 +17,10 @@ Saturday Academy sessions run from **9:00 a.m. to 1:00 p.m.** in the Raleigh are
 | January 30, 2027 | Winter Saturday Academy — Day 7 |
 | February 13, 2027 | Winter Saturday Academy — Day 8 |
 | February 20, 2027 | Winter Saturday Academy — Day 9 |
-| March 6, 2027 | Winter Saturday Academy — Day 10 |
+| March 6, 2027 | Student Symposium & Parent College Readiness Workshop — Day 10 |
 | March 13, 2027 | Mini-Runoff — Day 11 |
 
-Other program milestones are **MSEN Day on April 10, 2027** and **Awards Day on April 24 or May 1, 2027 (tentative)**. I will confirm locations and any date changes through the program.
+The revised calendar shared October 15, 2026 lists **MSEN Day on April 24, 2027 at UNC Charlotte** and **Awards Day on May 1, 2027 at Witherspoon Student Center on NC State’s Main Campus**. I will check program messages for event times and any further changes.
 
 After enjoying the summer program, I want to keep learning through activities that make me use math and science together.
 
