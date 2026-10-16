@@ -13,6 +13,12 @@ I am identified as Academically Gifted in Mathematics through WCPSS. I like usin
 
 My school records also document Single Subject Acceleration qualification and continued differentiated mathematics support. Math 2 and Math 3 are part of my current Grade 8 plan; I have not listed them as completed.
 
+## My recent state assessments
+
+I earned **Level 5 on the NC Math 1 End-of-Course test while in Grade 7**. I also earned **Level 5 on my Grade 7 Reading End-of-Grade test**. These results are recorded in my official 2025–26 Individual Student Reports.
+
+My NC Math 1 course final grade was **96**. The course grade and state test achievement level are different measures. My full school reports stay with my private application records.
+
 I want to get better at explaining my reasoning and connecting math to robotics, physics, and data.
 
 [Back to my portfolio](../README.md)

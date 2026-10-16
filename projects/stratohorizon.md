@@ -18,6 +18,12 @@ Ms. Maul is our school Team Lead. We are developing our proposal during fall 202
 
 The build, showcase, shipping, and flight milestones would apply to our team only if we are selected.
 
+## My starting role
+
+I am working with three classmates, with **Ms. Maurine Maul as our team lead**. My starting focus is **pictures and how they can show tilt**. I bring experience with Python and a camera-based robotics project. My teammates are focusing on saving pictures and sensor readings together, securing and checking the parts, and drawing and explaining our design.
+
+We plan to review our work on **October 17 and October 24** and send our proposal to Ms. Maul by **October 25**, leaving time for feedback before the November 2 deadline. These are team planning dates; our proposal has not yet been recorded as submitted.
+
 ## Our question
 
 Could a camera looking at Earth's horizon estimate a balloon payload's sideways tilt? We want to compare that estimate with an inertial measurement unit, or IMU.

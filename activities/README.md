@@ -6,13 +6,15 @@ I enjoy math and coding problems that take more than one attempt. I have partici
 
 ## FBLA
 
-I won my regional middle-school Business Ethics event and attended the **2026 North Carolina FBLA State Leadership Conference**. Thinking through an ethics question is different from solving a coding problem, but both make me explain why I chose an answer.
+In Grade 7, I won my regional middle-school Business Ethics event and attended the **2026 North Carolina FBLA State Leadership Conference**. Thinking through an ethics question is different from solving a coding problem, but both make me explain why I chose an answer.
+
+In Grade 8, I am preparing for **Exploring Management and Entrepreneurship** with a partner. My goal is to advance from regionals to the state competition and then nationals. We are still preparing; those are goals, not results.
 
 ## Volunteering
 
 I volunteer through the **Marbles Teen Play Corps**. My recorded service includes TPC Play 101 training, Family Field Day, and three Museum Play Host shifts, totaling **16 hours and 3 minutes** from April through August 2026.
 
-I also volunteered at the **BugFest Hoppers station** on **September 19, 2026**, with **2 recorded hours**. The station used a hopper-and-habitat matching activity and a ring-toss game to help visitors learn about camouflage and treehopper helmets.
+I also volunteered at the **BugFest Hoppers station**, organized by the **North Carolina Museum of Natural Sciences**, on **September 19, 2026**, with **2 recorded hours**. The station used a hopper-and-habitat matching activity and a ring-toss game to help visitors learn about camouflage and treehopper helmets.
 
 Together, my recorded Marbles and BugFest service totals **18 hours and 3 minutes**.
 
