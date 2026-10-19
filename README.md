@@ -1,6 +1,6 @@
 # Hi, I'm Reyansh
 
-I'm an eighth-grade student who likes robotics, math, and programming. I enjoy projects where I can build something, see what happens, and figure out what to change. I'm also interested in how computers can help us understand the world around us.
+I'm an eighth-grade student who likes robotics, math, and programming. I enjoy projects where I can build something, see what happens, and figure out what to change. I would like to become an aerospace engineer. Building a water rocket at MSEN and working on our NASA TechRise proposal have given me opportunities to explore this interest.
 
 This portfolio brings together some of my projects and activities. My full working repositories are private, but the pages and files linked here are public.
 
@@ -23,11 +23,12 @@ In Zebra Robotics, I worked on a self-driving vehicle project and learned about 
 | NC State MSEN Summer Scholars | Completed July 6–10, 2026 | [My week at camp](learning/summer-scholars.md) |
 | SecureIT cybersecurity workshops | Completed two workshops on September 12 and October 10; the year is still in progress | [Cybersecurity](learning/secureit.md) |
 | NASA TechRise — StratoHorizon | Preparing a proposal with my school team; no selection or flight yet | [Our experiment idea](projects/stratohorizon.md) |
+| ORISE STEM Cities competition | Developing an entry and choosing which city problem to focus on | [My activities](activities/README.md#orise-stem-cities) |
 | MSEN Pre-College Saturday Academy | Enrollment confirmed; classes begin October 24, 2026 | [My learning goals](learning/msen-pre-college.md) |
 
 ## My academic foundation
 
-I am identified as Academically Gifted in Mathematics and am following an accelerated NC Math 2 and NC Math 3 plan in Grade 8. I completed NC Math 1 in Grade 7 with a final grade of 96 and earned Level 5 on both my NC Math 1 EOC and Grade 7 Reading EOG. [My math progression](learning/academic-foundation.md) shows my completed courses and current placement.
+I am identified as Academically Gifted in Mathematics and am following an accelerated plan with NC Math 2 in one semester and NC Math 3 in the other during Grade 8. I completed NC Math 1 in Grade 7 with a final grade of 96 and earned Level 5 on both my NC Math 1 EOC and Grade 7 Reading EOG. [My math progression](learning/academic-foundation.md) shows my completed courses and current placement.
 
 ## Beyond my projects
 
@@ -39,4 +40,4 @@ I want to write code I can explain, keep better test records, and connect math t
 
 [What's included in this portfolio](PORTFOLIO-NOTES.md) · [Credits](CREDITS.md)
 
-*Last updated: October 16, 2026. This is my personal student portfolio.*
+*Last updated: October 18, 2026. This is my personal student portfolio.*
