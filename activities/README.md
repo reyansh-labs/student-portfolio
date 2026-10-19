@@ -2,7 +2,9 @@
 
 ## Math and programming
 
-I enjoy math and coding problems that take more than one attempt. I have participated in AMC 8, the NC State Math Contest, and USACO Bronze problem-solving. These are participation experiences; I am not claiming a USACO promotion or a competition award here.
+I enjoy math and coding problems that take more than one attempt. I participated in AMC 8 in Grade 7 and the NC State Math Contest, and I have explored USACO Bronze problems.
+
+I plan to take the **PSAT on October 28, 2026** and **AMC 10 on November 5, 2026**.
 
 ## FBLA
 
@@ -10,13 +12,21 @@ In Grade 7, I won my regional middle-school Business Ethics event and attended t
 
 In Grade 8, I am preparing for **Exploring Management and Entrepreneurship** with a partner. My goal is to advance from regionals to the state competition and then nationals. We are still preparing; those are goals, not results.
 
+## Debate Club
+
+I participated in my school's Debate Club in Grade 7. I stepped back in Grade 8 to make room for schoolwork and my NC State programs.
+
+## ORISE STEM Cities
+
+I am developing an entry for the **ORISE STEM Cities competition** about how STEM can help solve everyday problems in cities. I am choosing which idea to focus on for my entry.
+
 ## Volunteering
 
-I volunteer through the **Marbles Teen Play Corps**. My recorded service includes TPC Play 101 training, Family Field Day, and three Museum Play Host shifts, totaling **16 hours and 3 minutes** from April through August 2026.
+I was selected for **Marbles Kids Museum's Teen Play Corps** and have volunteered there for **23 hours**. My service has included training, Family Field Day, and Museum Play Host shifts.
 
-I also volunteered at the **BugFest Hoppers station**, organized by the **North Carolina Museum of Natural Sciences**, on **September 19, 2026**, with **2 recorded hours**. The station used a hopper-and-habitat matching activity and a ring-toss game to help visitors learn about camouflage and treehopper helmets.
+I also volunteered at the **BugFest Hoppers station**, organized by the **North Carolina Museum of Natural Sciences**, on **September 19, 2026**, with **2 recorded hours**. I helped visitors match insects to habitats and explained the ring-toss game. I practiced giving clear directions and being patient while visitors tried the activities.
 
-Together, my recorded Marbles and BugFest service totals **18 hours and 3 minutes**.
+Together, my recorded Marbles and BugFest service totals **25 hours**.
 
 ## Robotics credentials
 
@@ -28,7 +38,7 @@ I play USTA junior tennis. Some of my 2026 results are:
 
 | Event | Draw or flight | Result |
 | --- | --- | --- |
-| Big NC Tennis Junior Circuits by ASICS Winter/Spring District Slam, May 16–17 | 1–2.99 Singles draw | Winner |
+| Big NC District Championship, May 16–17 | Singles | Winner |
 | Seven Oaks Level 7, August 22–23 | Boys 14U Singles Blue Flight East | 1st place |
 | North Hills Club Level 7 Fall Brawl, September 20 | Boys 14U Singles Red Flight | 2nd place; 2–1 record; 14–6 games |
 
