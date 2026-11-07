@@ -4,13 +4,13 @@
 
 I enjoy math and coding problems that take more than one attempt. I participated in AMC 8 in Grade 7 and the NC State Math Contest, and I have explored USACO Bronze problems.
 
-I plan to take the **PSAT on October 28, 2026** and **AMC 10 on November 5, 2026**.
+I took the **PSAT/NMSQT on October 28, 2026**. My scores are not posted here yet. AMC 10 was scheduled for **November 5, 2026**; I will add my participation record and result once confirmed.
 
 ## FBLA
 
 In Grade 7, I won my regional middle-school Business Ethics event and attended the **2026 North Carolina FBLA State Leadership Conference**. Thinking through an ethics question is different from solving a coding problem, but both make me explain why I chose an answer.
 
-In Grade 8, I am preparing for **Exploring Management and Entrepreneurship** with a partner. My goal is to advance from regionals to the state competition and then nationals. We are still preparing; those are goals, not results.
+In Grade 8, I serve as a **Program of Work Committee Co-Chair** for Carnage FBLA. I am preparing for **Exploring Management and Entrepreneurship** with a partner. My goal is to advance from regionals to the state competition and then nationals. We are still preparing; those are goals, not results.
 
 ## Debate Club
 
@@ -18,15 +18,15 @@ I participated in my school's Debate Club in Grade 7. I stepped back in Grade 8 
 
 ## ORISE STEM Cities
 
-I am developing an entry for the **ORISE STEM Cities competition** about how STEM can help solve everyday problems in cities. I am choosing which idea to focus on for my entry.
+I submitted **RoboRoute City** to the **ORISE STEM Cities competition**. This is a submitted entry, not an award or a completed robot.
 
 ## Volunteering
 
-I was selected for **Marbles Kids Museum's Teen Play Corps** and have volunteered there for **23 hours**. My service has included training, Family Field Day, and Museum Play Host shifts.
+I was selected for **Marbles Kids Museum's Teen Play Corps** and have volunteered there for **24 hours**. My service has included training, Family Field Day, and Museum Play Host shifts.
 
 I also volunteered at the **BugFest Hoppers station**, organized by the **North Carolina Museum of Natural Sciences**, on **September 19, 2026**, with **2 recorded hours**. I helped visitors match insects to habitats and explained the ring-toss game. I practiced giving clear directions and being patient while visitors tried the activities.
 
-Together, my recorded Marbles and BugFest service totals **25 hours**.
+Together, my recorded Marbles and BugFest service totals **26 hours**.
 
 ## Robotics credentials
 
