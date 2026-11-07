@@ -1,6 +1,8 @@
-# My Next MSEN Experience
+# My MSEN Pre-College Experience
 
-My enrollment is confirmed for the **2026–27 NC State MSEN Pre-College Saturday Academy**. My class folders and learning journal are set up, and the classes begin on October 24, 2026. I have not recorded any Saturday Academy attendance or completed class projects yet.
+I am participating in the **2026–27 NC State MSEN Pre-College Saturday Academy**, which began October 24, 2026. My classes include **NC Math 2** and **Introduction to Drone Technology**.
+
+On **October 24, 2026**, I completed **The Recreational UAS Safety Test (TRUST)** through Embry-Riddle Aeronautical University. I learned about the responsibilities of flying drones safely. This is a safety-test completion certificate, not a pilot license.
 
 ## Program schedule
 
