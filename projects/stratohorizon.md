@@ -1,10 +1,10 @@
 # StratoHorizon — A Question About the Horizon
 
-**Status: Proposal preparation for the 2026–27 NASA TechRise Student Challenge.** Our team has not been selected and has not flown this experiment.
+**Status: Proposal submitted for the 2026–27 NASA TechRise Student Challenge.** Our team has not been selected and has not flown this experiment.
 
 ## High-level project timeline
 
-Ms. Maul is our school Team Lead. We are developing our proposal during fall 2026. These dates come from the [official NASA TechRise challenge page](https://www.futureengineers.org/nasatechrise), checked September 27, 2026.
+Ms. Maul is our school Team Lead. Our team submitted StratoHorizon during fall 2026. These dates come from the [official NASA TechRise challenge page](https://www.futureengineers.org/nasatechrise), checked September 27, 2026.
 
 | Date | Program milestone |
 | --- | --- |
@@ -22,7 +22,7 @@ The build, showcase, shipping, and flight milestones would apply to our team onl
 
 I am working with three classmates, with **Ms. Maurine Maul as our team lead**. My starting focus is **pictures and how they can show tilt**. I bring experience with Python and a camera-based robotics project. My teammates are focusing on saving pictures and sensor readings together, securing and checking the parts, and drawing and explaining our design.
 
-We plan to review our work on **October 17 and October 24** and send our proposal to Ms. Maul by **October 25**, leaving time for feedback before the November 2 deadline. These are team planning dates; our proposal has not yet been recorded as submitted.
+We divided the work and reviewed our proposal with Ms. Maul's guidance. My role focused on planning how to use pictures and account for clouds or glare. We are awaiting the selection results; our next scheduled milestone is January 19, 2027.
 
 ## Our question
 
