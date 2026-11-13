@@ -4,7 +4,7 @@
 
 I enjoy math and coding problems that take more than one attempt. I participated in AMC 8 in Grade 7 and the NC State Math Contest, and I have explored USACO Bronze problems.
 
-I took the **PSAT/NMSQT on October 28, 2026**. My scores are not posted here yet. AMC 10 was scheduled for **November 5, 2026**; I will add my participation record and result once confirmed.
+I took the **PSAT/NMSQT on October 28, 2026** and earned a total score of **1140**, including **600 in Math** and **540 in Reading and Writing**. I met or exceeded the College Board college and career readiness benchmarks in both sections. AMC 10 was scheduled for **November 5, 2026**; I will add my participation record and result once confirmed.
 
 ## FBLA
 
