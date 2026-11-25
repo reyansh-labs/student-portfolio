@@ -27,7 +27,7 @@ The series runs from **September 12, 2026 to April 17, 2027**. All eight worksho
 | --- | --- | --- |
 | September 12, 2026 | Adversarial Thinking | Completed |
 | October 10, 2026 | Cryptography | Completed |
-| November 14, 2026 | Systems & Linux | Scheduled |
+| November 14, 2026 | Systems & Linux | Date passed; attendance not confirmed |
 | December 5, 2026 | Capture the Flag (CTF) | Scheduled |
 | January 16, 2027 | Social Media Literacy | Scheduled |
 | February 20, 2027 | Censorship & Privacy | Scheduled |
@@ -38,10 +38,10 @@ The series runs from **September 12, 2026 to April 17, 2027**. All eight worksho
 
 I keep the two workshop handouts and our practical poster in my private learning repository. This public page shares my summary without publishing the workshop documents or my partner's identifying details.
 
-I want to get better at explaining why a message looks suspicious and testing rules against safe examples too. Future sessions will cover Linux, Capture the Flag, social-media literacy, privacy, and AI-generated information. I will add what I actually do after each session.
+I want to get better at explaining why a message looks suspicious and testing rules against safe examples too. The series also includes Linux, Capture the Flag, social-media literacy, privacy, and AI-generated information. I will add what I actually do after each session.
 
 This is a record of my learning so far, not a course-completion certificate. I only practice cybersecurity activities in authorized learning environments.
 
-*Updated October 18, 2026.*
+*Updated November 25, 2026.*
 
 [Back to my portfolio](../README.md)

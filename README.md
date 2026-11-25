@@ -12,7 +12,7 @@ At NC State's MSEN Summer Scholars camp, I built a water rocket with foam-board 
 
 ### [Learning to control a robot](projects/robotics.md)
 
-In Zebra Robotics, I worked on a self-driving vehicle project and learned about coding, CAD, and 3D printing. The example I can share here controls movement with fixed speeds, steering commands, and timed waits. It is an early motion-control stage of the project.
+When I attended Zebra Robotics, I worked on a self-driving vehicle project and learned about coding, CAD, and 3D printing. The example I can share here controls movement with fixed speeds, steering commands, and timed waits. It is an early motion-control stage of the project.
 
 **Take a closer look:** [Python code](artifacts/robotics/user_main.py) · [My explanation of the code](artifacts/robotics/code-notes.md) · [Chassis model note](artifacts/robotics/SDV_Chassis.md)
 
@@ -23,7 +23,7 @@ In Zebra Robotics, I worked on a self-driving vehicle project and learned about 
 | NC State MSEN Summer Scholars | Completed July 6–10, 2026 | [My week at camp](learning/summer-scholars.md) |
 | SecureIT cybersecurity workshops | Completed two workshops on September 12 and October 10; the year is still in progress | [Cybersecurity](learning/secureit.md) |
 | NASA TechRise — StratoHorizon | Submitted our team proposal; awaiting selection results | [Our experiment idea](projects/stratohorizon.md) |
-| ORISE STEM Cities competition | Submitted RoboRoute City | [My activities](activities/README.md#orise-stem-cities) |
+| ORISE STEM Cities competition | Submitted RoboRoute City | [My city concept](projects/roboroute-city.md) |
 | MSEN Pre-College Saturday Academy | Participating in NC Math 2 and Introduction to Drone Technology | [My learning goals](learning/msen-pre-college.md) |
 
 ## My academic foundation
@@ -40,4 +40,4 @@ I want to write code I can explain, keep better test records, and connect math t
 
 [What's included in this portfolio](PORTFOLIO-NOTES.md) · [Credits](CREDITS.md)
 
-*Last updated: November 7, 2026. This is my personal student portfolio.*
+*Last updated: November 25, 2026. This is my personal student portfolio.*

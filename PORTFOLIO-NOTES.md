@@ -4,12 +4,13 @@ I want someone reading this portfolio to be able to tell what I have done, what 
 
 | Page | What is available here | Current limit |
 | --- | --- | --- |
-| [Robotics](projects/robotics.md) | An unchanged motion-control code sample, my explanation, and a chassis STL | The code uses timed movement. Sensor-navigation code and measured test results are not included. |
+| [Robotics](projects/robotics.md) | An unchanged motion-control code sample, my explanation, and a chassis-model note | The code uses timed movement. The STL remains private; sensor-navigation code and measured test results are not included. |
 | [Water rocket](projects/water-rocket.md) | A design summary and the 77-foot result recorded in my camp journal | The measurement method and repeated-trial data are not recorded in my saved notes. |
 | [Summer Scholars](learning/summer-scholars.md) | A summary of my five days and group presentation | This is my account of the experience, not an official program evaluation. |
 | [SecureIT](learning/secureit.md) | Two completed workshops, my learning summary, and the September–April schedule | Later workshops are scheduled; their learning notes will follow attendance. |
 | [StratoHorizon](projects/stratohorizon.md) | A short explanation of our proposed experiment | No selection, completed flight experiment, or flight results yet. |
-| [MSEN Pre-College](learning/msen-pre-college.md) | My goals for the new program year | No completed Saturday Academy class work yet. |
+| [MSEN Pre-College](learning/msen-pre-college.md) | My current classes, TRUST completion, and program schedule | Full program completion and later class work are not documented. |
+| [RoboRoute City](projects/roboroute-city.md) | My submitted future-city robot concept | No built robot, measured results, or award confirmed. |
 | [Activities](activities/README.md) | A short summary of my activities and results | Supporting application documents are kept separately. |
 
 The public links stay inside this portfolio, so a reader does not need access to my private repositories. I have kept personal documents and photos of other students out of this version.

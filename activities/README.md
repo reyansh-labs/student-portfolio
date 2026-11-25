@@ -18,7 +18,7 @@ I participated in my school's Debate Club in Grade 7. I stepped back in Grade 8 
 
 ## ORISE STEM Cities
 
-I submitted **RoboRoute City** to the **ORISE STEM Cities competition**. This is a submitted entry, not an award or a completed robot.
+I submitted [**RoboRoute City**](../projects/roboroute-city.md) to the **ORISE STEM Cities competition**, with confirmation on October 30, 2026. I designed a future-city robot concept and considered energy, time, and cost. This is a submitted entry, not an award or a completed robot.
 
 ## Volunteering
 
@@ -38,7 +38,7 @@ I play USTA junior tennis. Some of my 2026 results are:
 
 | Event | Draw or flight | Result |
 | --- | --- | --- |
-| Big NC District Championship, May 16–17 | Singles | Winner |
+| Big NC District Championship, May 16–17 | 1–2.99 Singles draw | Winner |
 | Seven Oaks Level 7, August 22–23 | Boys 14U Singles Blue Flight East | 1st place |
 | North Hills Club Level 7 Fall Brawl, September 20 | Boys 14U Singles Red Flight | 2nd place; 2–1 record; 14–6 games |
 

@@ -4,7 +4,7 @@
 
 ## High-level project timeline
 
-Ms. Maul is our school Team Lead. Our team submitted StratoHorizon during fall 2026. These dates come from the [official NASA TechRise challenge page](https://www.futureengineers.org/nasatechrise), checked September 27, 2026.
+our teacher is our school Team Lead. Future Engineers confirmed receipt of our StratoHorizon entry on **October 29, 2026**. These dates come from the [official NASA TechRise challenge page](https://www.futureengineers.org/nasatechrise), checked September 27, 2026.
 
 | Date | Program milestone |
 | --- | --- |
@@ -20,9 +20,9 @@ The build, showcase, shipping, and flight milestones would apply to our team onl
 
 ## My starting role
 
-I am working with three classmates, with **Ms. Maurine Maul as our team lead**. My starting focus is **pictures and how they can show tilt**. I bring experience with Python and a camera-based robotics project. My teammates are focusing on saving pictures and sensor readings together, securing and checking the parts, and drawing and explaining our design.
+I am working with three classmates, with **our teacher as our team lead**. My starting focus is **pictures and how they can show tilt**. I bring experience with Python and a camera-based robotics project. My teammates are focusing on saving pictures and sensor readings together, securing and checking the parts, and drawing and explaining our design.
 
-We divided the work and reviewed our proposal with Ms. Maul's guidance. My role focused on planning how to use pictures and account for clouds or glare. We are awaiting the selection results; our next scheduled milestone is January 19, 2027.
+We divided the work and reviewed our proposal with our teacher's guidance. My role focused on planning how to use pictures and account for clouds or glare. We are awaiting the selection results; our next scheduled milestone is January 19, 2027.
 
 ## Our question
 
