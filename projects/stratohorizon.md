@@ -4,7 +4,7 @@
 
 ## High-level project timeline
 
-our teacher is our school Team Lead. Future Engineers confirmed receipt of our StratoHorizon entry on **October 29, 2026**. These dates come from the [official NASA TechRise challenge page](https://www.futureengineers.org/nasatechrise), checked September 27, 2026.
+Our teacher is our school team lead. Future Engineers confirmed receipt of our StratoHorizon entry on **October 29, 2026**. These dates come from the [official NASA TechRise challenge page](https://www.futureengineers.org/nasatechrise), checked September 27, 2026.
 
 | Date | Program milestone |
 | --- | --- |
