@@ -22,11 +22,11 @@ I submitted [**RoboRoute City**](../projects/roboroute-city.md) to the **ORISE S
 
 ## Volunteering
 
-I was selected for **Marbles Kids Museum's Teen Play Corps** and have volunteered there for **24 hours**. My service has included training, Family Field Day, and Museum Play Host shifts.
+I was selected for **Marbles Kids Museum's Teen Play Corps** and have volunteered there for **24 hours and 33 minutes**. My service has included training, Family Field Day, and Museum Play Host shifts.
 
 I also volunteered at the **BugFest Hoppers station**, organized by the **North Carolina Museum of Natural Sciences**, on **September 19, 2026**, with **2 recorded hours**. I helped visitors match insects to habitats and explained the ring-toss game. I practiced giving clear directions and being patient while visitors tried the activities.
 
-Together, my recorded Marbles and BugFest service totals **26 hours**.
+Together, my recorded Marbles and BugFest service totals **26 hours and 33 minutes**.
 
 ## Robotics credentials
 
